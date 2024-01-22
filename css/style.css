@@ -237,7 +237,7 @@
     }
   }
   /***/
-  
+
 #about .years .display-1 {
     font-size: 10rem;
     line-height: 9rem;
@@ -458,3 +458,4 @@
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
 }
+
