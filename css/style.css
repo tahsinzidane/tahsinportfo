@@ -460,3 +460,13 @@
     background: var(--primary);
 }
 
+
+/* Toggle switch styles */
+.NightlyWeb {
+  z-index: 9999;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  cursor: pointer;
+  user-select: none;
+}
