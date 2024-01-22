@@ -463,10 +463,9 @@
 
 /* Toggle switch styles */
 .NightlyWeb {
-  z-index: 9999;
+  z-index: 999999;
   position: fixed;
   bottom: 10px;
-  right: 10px;
-  cursor: pointer;
+  left: 10px;
   user-select: none;
 }
