@@ -208,6 +208,36 @@
 
 
 /*** About ***/
+
+/*for falling of love*/
+.love-emoji {
+    position: absolute;
+    cursor: default;
+    animation: fall 5s linear infinite;
+    font-size: 24px;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 100%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    transform: translateY(-100vh); /* Adjust the starting position to the top of the viewport */
+  }
+  @keyframes fall {
+    0% {
+      transform: translateY(-21vh);
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      transform: translateY(70vh); /* Adjust the ending position to the bottom of the viewport */
+      opacity: 0;
+    }
+  }
+  /***/
+  
 #about .years .display-1 {
     font-size: 10rem;
     line-height: 9rem;
