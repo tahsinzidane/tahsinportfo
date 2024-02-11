@@ -9,7 +9,7 @@ Welcome to my portfolio website! Here you can find information about me and my w
 This repository contains the source code for my personal portfolio website. Feel free to explore and get in touch with me for any inquiries or collaborations.
 
 ## Acknowledgements
-- [Maruf OVi](https://github.com/iamovi): for their valuable contributions to the development of this portfolio.
+[Maruf OVi](https://github.com/iamovi): for his valuable contribution to the development of this portfolio.
 
 ## Visit My Portfolio
 [https://tahsinportfo.netlify.app/](https://tahsinportfo.netlify.app/)
